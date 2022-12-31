@@ -1,0 +1,6 @@
+.gradient-custom {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-hero-bg.jpg") center/cover no-repeat;
+  height: 40vh;
+  margin-top: 0.25rem;
+}
