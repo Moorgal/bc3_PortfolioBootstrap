@@ -32,3 +32,12 @@
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
     url("../images/02-run-buddy.jpg") center/cover no-repeat;
 }
+
+.box-shadow {
+  box-shadow: 0 1px 1px rgba(72, 78, 85, 0.6);
+  transition: all 0.2s ease-out;
+}
+  .box-shadow:hover {
+  box-shadow: 0 20px 40px rgba(72, 78, 85, 0.6);
+  transform: translateY(-15px);
+}
