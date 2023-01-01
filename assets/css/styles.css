@@ -4,3 +4,31 @@
   height: 40vh;
   margin-top: 0.25rem;
 }
+
+.avatar {
+  width: 15vw;
+}
+
+.card1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-portfolio-1.jpg") center/cover no-repeat;
+}
+
+.card2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-portfolio-2.jpg") center/cover no-repeat;
+}
+.card3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-portfolio-3.jpg") center/cover no-repeat;
+}
+
+.card4 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-portfolio-4.jpg") center/cover no-repeat;
+}
+
+.card5 {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgb(44, 174, 186, 0.7)),
+    url("../images/02-run-buddy.jpg") center/cover no-repeat;
+}
