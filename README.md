@@ -14,9 +14,9 @@ The work section introduces the projects what are already done as designs what a
 
 Build With:
 
-The structure of the site got built with HTML followed by CSS what is responsible for the look
+The structure of the site got built with HTML followed by Bootstrap 5 what is responsible for the look
 
-![alt text](https://github.com/Moorgal/bc2_PortfolioHtmlCss/blob/main/assets/images/Portfolio_Screenshot_1.jpg)
-![alt text](https://github.com/Moorgal/bc2_PortfolioHtmlCss/blob/main/assets/images/Portfolio_Screenshot_2.jpg)
+![alt text](https://github.com/Moorgal/bc3_PortfolioBootstrap/blob/main/assets/images/Portfolio_Screenshot_1.jpg)
+![alt text](https://github.com/Moorgal/bc3_PortfolioBootstrap/blob/main/assets/images/Portfolio_Screenshot_2.jpg)
 
 <!-- ![alt text](http://url/to/img.png) -->
